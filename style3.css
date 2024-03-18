@@ -1,0 +1,63 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+#header {
+    background-color: tomato;
+    color: white;
+    padding: 10px;
+}
+#main {
+    background-color: seashell;
+    height: 500px;
+    overflow: scroll;
+    
+}
+#footer_1,#footer_2,#footer_3,#footer_4 {
+    background-color: tomato;
+    color: white;
+    width: 25%;
+    height: 160px;
+    margin: 0;
+    float: left;
+}
+img {
+    float: left;
+    padding: 10px;
+    border-radius: 10px;
+}
+p {
+    padding: 10px;
+    font-size: 150%;
+    font-style: italic;
+}
+h1,h2 {
+    text-align: center;
+}
+h3 {
+    margin-top: 10px;
+    padding-right: 30px;
+    text-align: right;
+    font-style: bold;
+}
+h4 {
+    text-align: right;
+    margin: 40px;
+    font-size: 150%;
+    font-style: italic;
+}
+a {
+    color: white;
+}
+.osoba {
+    background-color: white;
+    color: dimgray;
+    width: 60%;
+    height: 220px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    box-shadow: 0 0 10px 5px DimGray;
+    margin-left: auto;
+    margin-right: auto;
+}
